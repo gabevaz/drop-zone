@@ -53,3 +53,9 @@ npm install
 ```
 npm run develop
 ```
+
+### Project runs at:
+
+```
+http://localhost:8000/
+```
