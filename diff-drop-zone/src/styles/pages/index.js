@@ -68,21 +68,3 @@ export const Title = styled.h1`
     font-size: 24px;
   }
 `
-
-export const CountdownDiv = styled.div`
-  display: flex;
-  justify-content: center;
-  align-items: center;
-`
-
-export const Text = styled.p`
-  text-transform: uppercase;
-  color: #000000;
-  font-size: 14px;
-  letter-spacing: 0.15em;
-  text-align: center;
-
-  @media(max-width: 767.98px) {
-    margin: 12px 0;
-  }
-`
